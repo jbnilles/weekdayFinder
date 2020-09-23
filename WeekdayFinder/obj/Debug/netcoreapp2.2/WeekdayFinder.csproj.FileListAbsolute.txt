@@ -1,0 +1,11 @@
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.csprojAssemblyReference.cache
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.csproj.CoreCompileInputs.cache
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.AssemblyInfoInputs.cache
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.AssemblyInfo.cs
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.deps.json
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.runtimeconfig.json
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.runtimeconfig.dev.json
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.pdb
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.pdb

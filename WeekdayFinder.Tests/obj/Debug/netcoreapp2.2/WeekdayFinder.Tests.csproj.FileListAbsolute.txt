@@ -1,0 +1,17 @@
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.deps.json
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.runtimeconfig.json
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.runtimeconfig.dev.json
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.pdb
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\WeekdayFinder.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\bin\Debug\netcoreapp2.2\WeekdayFinder.pdb
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.csprojAssemblyReference.cache
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.AssemblyInfoInputs.cache
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.AssemblyInfo.cs
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.csproj.CopyComplete
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.dll
+C:\Users\bnilles\Desktop\epi\WeekdayFinder.Solution\WeekdayFinder.Tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.pdb
